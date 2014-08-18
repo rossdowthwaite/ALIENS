@@ -3,7 +3,7 @@ ALIENS
 
 Top down shooter based on the film ALIENS. Made with Phaser.js
 
-Rooms are randomly generated with Aliens, crates and lighting effects. The aim is to survive as many rooms as possible. Gain more health by destroying boxes in search of medi packs.
+Rooms are randomly generated with Aliens, crates and varying lighting effects. The aim is to survive as many rooms as possible. Gain more health by destroying boxes in search of medi packs.
 
 
 Play:

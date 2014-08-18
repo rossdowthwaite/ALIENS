@@ -4,4 +4,5 @@
 /Maps/*
 /Assets/*
 /dist/assets/*
+/dist/js/*
 Gruntfile.js
